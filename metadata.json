@@ -1,0 +1,6 @@
+{
+  "name": "Arsip Digital Pribadi",
+  "description": "Aplikasi arsip digital pribadi berbasis Google Drive untuk menyimpan, mengkategorikan, mencari, dan mengamankan dokumen penting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
